@@ -1,8 +1,12 @@
+
 body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    font-family: monospace;
+    font-family: 'Roboto', sans-serif;
+    
+    
+    min-height: 100vh;
 }
 
 ul {
