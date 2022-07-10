@@ -39,7 +39,7 @@ color:#f9faf8;
     display: flex;
     justify-content: space-between;
     background-color: #1f2937;
-    padding: 20px;
+    padding: 20px 270px;
     align-items: center;
 }
 
@@ -122,7 +122,7 @@ margin: 30px;
 
 .image-holder img {
     height: auto;
-   width: 100px;
+    width: 100px;
     
 }
 
@@ -137,6 +137,7 @@ margin: 30px;
     font-size: 36px;
 color:#1f2937;
 font-style: italic;
+
    
 }
 .citation{
